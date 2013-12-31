@@ -6,15 +6,15 @@ The point: Analyze and provide examples of some standard patterns for handling r
 
 ###The Pattern
 
-    .image{
-      background-image: url(http://www.placecage.com/200/300);
-    }
+.image{
+  background-image: url(http://www.placecage.com/200/300);
+}
 
-    @media (max-width: 600px) {
-      .image
-        background-image: url(http://www.placecage.com/600/600);
-      }
-    }
+@media (max-width: 600px) {
+  .image
+    background-image: url(http://www.placecage.com/600/600);
+  }
+}
 
 ###Example
 
