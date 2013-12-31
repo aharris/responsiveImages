@@ -42,8 +42,25 @@ The point: Analyze and provide examples of some standard patterns for handling r
 
 ##SVG
 
+###Resources
+http://demosthenes.info/blog/744/
 
-##@font-face
+###The Benefit:
+* Scales responsively with only one image.
+
+###The Issues:
+* Not supported by all browsers.
+
+###Resources
+[http://demosthenes.info/blog/744/](http://demosthenes.info/blog/744/)
+[http://caniuse.com/#feat=svg](http://caniuse.com/#feat=svg)
+
+
+##Font Icons
+
+###Resources
+[http://caniuse.com/#feat=fontface](http://caniuse.com/#feat=fontface)
+[http://icomoon.io/](http://icomoon.io/)
 
 
 ##Detecting Network Speed
