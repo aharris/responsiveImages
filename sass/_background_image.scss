@@ -1,6 +1,6 @@
 @import "compass/css3";
 
-.image{
+.background-image{
   background-image: url(http://www.placecage.com/200/300);
   @include background-size(cover);
   width: 200px;
@@ -18,7 +18,7 @@
 
 
 @media (min-width: 600px) {
-  .image{
+  .background-image{
     background-image: url(http://www.placecage.com/600/600);
     width: 600px;
     height: 600px;
